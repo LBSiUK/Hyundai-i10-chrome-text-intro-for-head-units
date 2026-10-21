@@ -2,7 +2,7 @@
 
 Custom intro video for head units.
 
-[![A light sweeps across the chrome HYUNDAI i10 logo](preview.gif)](https://github.com/LBSiUK/Hyundai-i10-chrome-text-intro-for-head-units/raw/main/i10-intro-1080p60.mp4)
+https://github.com/user-attachments/assets/123fcbac-dbb3-444a-a5a3-c0186ce2eb93
 
 ## Downloads
 
@@ -10,8 +10,3 @@ Custom intro video for head units.
 - [Blender model (.blend)](https://github.com/LBSiUK/Hyundai-i10-chrome-text-intro-for-head-units/raw/main/i10-intro.blend)
 
 Not affiliated with or endorsed by Hyundai Motor Company. Hyundai and i10 are trademarks of Hyundai Motor Company.
-
-
-
-https://github.com/user-attachments/assets/123fcbac-dbb3-444a-a5a3-c0186ce2eb93
-
